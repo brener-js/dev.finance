@@ -34,7 +34,7 @@ O dev.finance é uma aplicação desenvolvida com JavaScript para controle de ga
 
 ## 📄 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/brener-js/move.it/blob/main/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/brener-js/dev.finance/blob/main/LICENSE.md) para mais detalhes.
 
 ---
 
